@@ -150,6 +150,8 @@ t -> { t.start(); }          // Single inferred-type parameter
 
 ```
 
+#### 참고 : https://skyoo2003.github.io/post/2016/11/09/java8-lambda-expression
+
 ## TODO
 
 - 우선 개념 및 간단한 사용법 익히기
